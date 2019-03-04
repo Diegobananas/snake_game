@@ -41,10 +41,12 @@ var cardsArray = [{
 },{
   'name': 'timberb',
   'img': 'img/timberb.jpg.'
-},{
+},
+{
   'name': 'banana',
   'img': 'img/banana.jpg.'
-}];
+}
+];
 
 var gameGrid = cardsArray.concat(cardsArray).sort(function () {
   return 0.5 - Math.random();

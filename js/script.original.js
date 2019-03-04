@@ -1,51 +1,49 @@
 const cardsArray = [{
-    'name': 'biterattle',
-    'img': 'img/biterattle.jpg',
-  },
-  {
-    'name': 'eyeball',
-    'img': 'img/eyeball.jpg',
-  },
-  {
-    'name': 'fangs',
-    'img': 'img/fangs.jpg',
-  },
-  {
-    'name': 'head',
-    'img': 'img/head.jpg',
-  },
-  {
-    'name': 'RatSnake',
-    'img': 'img/RatSnake.jpg',
-  },
-  {
-    'name': 'Rattle2.0',
-    'img': 'img/Rattle2.0.jpg',
-  },
-  {
-    'name': 'scarysnake',
-    'img': 'img/scarysnake.jpg',
-  },
-  {
-    'name': 'sniffer',
-    'img': 'img/sniffer.jpg',
-  },
-  {
-    'name': 'tongue',
-    'img': 'img/tongue.jpg',
-  },
-  {
-    'name': 'vipersfoundt',
-    'img': 'img/vipersfoundy.jpg',
-  },
-  {
-    'name': 'timberb',
-    'img': 'img/timberb.jpg',
-  },
-  {
-    'name': 'goomba',
-    'img': 'img/goomba.png',
-  },
+  'name': 'biterattle',
+  'img': 'img/biterattle.jpg',
+},
+{
+  'name': 'eyeball',
+  'img': 'img/eyeball.jpg',
+},
+{
+  'name': 'fangs',
+  'img': 'img/fangs.jpg',
+},
+{
+  'name': 'head',
+  'img': 'img/head.jpg',
+},
+{
+  'name': 'RatSnake',
+  'img': 'img/RatSnake.jpg',
+},
+{
+  'name': 'Rattle2.0',
+  'img': 'img/Rattle2.0.jpg',
+},
+{
+  'name': 'scarysnake',
+  'img': 'img/scarysnake.jpg',
+},
+{
+  'name': 'sniffer',
+  'img': 'img/sniffer.jpg',
+},
+{
+  'name': 'tongue',
+  'img': 'img/tongue.jpg',
+},{
+  'name': 'vipersfoundt',
+  'img': 'img/vipersfoundt.jpg.'
+},{
+  'name': 'timberb',
+  'img': 'img/timberb.jpg.'
+},
+{
+  'name': 'banana',
+  'img': 'img/banana.jpg.'
+}
 ];
 
 const gameGrid = cardsArray
