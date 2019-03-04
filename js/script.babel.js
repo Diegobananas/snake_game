@@ -15,7 +15,7 @@ var cardsArray = [
 },
 {
   'name': 'head',
-  'img': 'img/head.jpg',
+  'img': 'img/head.JPG',
 },
 {
   'name': 'RatSnake',
