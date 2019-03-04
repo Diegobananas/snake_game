@@ -36,11 +36,11 @@ var cardsArray = [{
   'name': 'tongue',
   'img': 'img/tongue.jpg',
 },{
-  'name': 'cutebud',
-  'img': 'img/cutebud.jpg.'
+  'name': 'vipersfoundt',
+  'img': 'img/vipersfoundt.jpg.'
 },{
-  'name': 'budnotbuddy',
-  'img': 'img/budnotbuddy.jpg.'
+  'name': 'timberb',
+  'img': 'img/timberb.jpg.'
 },{
   'name': 'banana',
   'img': 'img/banana.jpg.'

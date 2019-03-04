@@ -35,12 +35,12 @@ const cardsArray = [{
     'img': 'img/tongue.jpg',
   },
   {
-    'name': 'cutebud',
-    'img': 'img/cutbud.jpg',
+    'name': 'vipersfoundt',
+    'img': 'img/vipersfoundy.jpg',
   },
   {
-    'name': 'budnotbuddy',
-    'img': 'img/budnotbuddy.jpg',
+    'name': 'timberb',
+    'img': 'img/timberb.jpg',
   },
   {
     'name': 'goomba',
