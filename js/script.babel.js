@@ -35,10 +35,12 @@ var cardsArray = [{
 {
   'name': 'tongue',
   'img': 'img/tongue.jpg',
-},{
+},
+{
   'name': 'vipersfoundt',
   'img': 'img/vipersfoundt.jpg',
-},{
+},
+{
   'name': 'timberb',
   'img': 'img/timberb.jpg',
 },
