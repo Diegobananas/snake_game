@@ -1,6 +1,7 @@
 'use strict';
 
-var cardsArray = [{
+var cardsArray = [
+  {
   'name': 'biterattle',
   'img': 'img/biterattle.jpg',
 },
