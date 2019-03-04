@@ -21,6 +21,18 @@ var cardsArray = [{
   'img': 'img/RatSnake.jpg',
 },
 {
+  'name': 'snake_viper',
+  'img': 'img/snake_viper.jpg',
+},
+{
+  'name': 'banana',
+  'img': 'img/banana.jpg',
+},
+{
+  'name': 'timberb',
+  'img': 'img/timberb.jpg',
+},
+{
   'name': 'Rattle2.0',
   'img': 'img/Rattle2.0.jpg',
 },
@@ -35,18 +47,6 @@ var cardsArray = [{
 {
   'name': 'tongue',
   'img': 'img/tongue.jpg',
-},
-{
-  'name': 'vipersfoundt',
-  'img': 'img/vipersfoundt.jpg',
-},
-{
-  'name': 'timberb',
-  'img': 'img/timberb.jpg',
-},
-{
-  'name': 'snake_viper',
-  'img': 'img/snake_viper.jpg',
 }
 ];
 
