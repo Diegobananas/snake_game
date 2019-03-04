@@ -45,8 +45,8 @@ var cardsArray = [{
   'img': 'img/timberb.jpg',
 },
 {
-  'name': 'banana',
-  'img': 'img/banana.jpg',
+  'name': 'snake_viper',
+  'img': 'img/snake_viper.jpg',
 }
 ];
 
