@@ -37,14 +37,14 @@ var cardsArray = [{
   'img': 'img/tongue.jpg',
 },{
   'name': 'vipersfoundt',
-  'img': 'img/vipersfoundt.jpg'
+  'img': 'img/vipersfoundt.jpg',
 },{
   'name': 'timberb',
-  'img': 'img/timberb.jpg'
+  'img': 'img/timberb.jpg',
 },
 {
   'name': 'banana',
-  'img': 'img/banana.jpg'
+  'img': 'img/banana.jpg',
 }
 ];
 
